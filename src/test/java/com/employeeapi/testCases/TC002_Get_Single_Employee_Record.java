@@ -3,8 +3,6 @@ package com.employeeapi.testCases;
 import com.employeeapi.base.TestBase;
 import io.restassured.RestAssured;
 import io.restassured.http.Method;
-import io.restassured.response.Response;
-import io.restassured.specification.RequestSpecification;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
